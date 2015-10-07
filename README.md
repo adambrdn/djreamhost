@@ -1,0 +1,2 @@
+# djreamhost
+Dreamhost + Django = Djreamhost
